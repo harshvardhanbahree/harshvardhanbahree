@@ -3,13 +3,14 @@
 <a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhanbahree&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhanbahree" /> </p>
 </a>
-- 🌱 I’m currently learning **Ligo(Smart Contract Language)**
 
 - 🌱 I’m currently working in **BlockChain**.
 
-- 💬 Ask me about **Smart Contract, Blockchain**
+- 🌱 I’m currently learning **Ligo(Smart Contract Language)**.
 
-- 📫 How to reach me **harshvardhanbahree@gmail.com**
+- 💬 Ask me about **Smart Contract, Blockchain**.
+
+- 📫 How to reach me **harshvardhanbahree@gmail.com**.
 
 - ⚡ Fun fact **I spend almost 12 hours listening to songs everyday.**
 
