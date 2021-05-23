@@ -4,11 +4,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on LIGO(Smart contract Language).
 
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently working in BlockChain.
 
-- 💬 Ask me about Smart Contract or any tech related stuff.
+- 💬 Ask me about Smart Contract, Blockchain or any tech related stuff.
 
-- 📫 How to reach me: Linkedin - linkedin.com/in/harshvardhan129a8192, Facebook - facebook.com/hbahree/
+- 📫 How to reach me: Linkedin - linkedin.com/in/harshvardhan129a8192
 
 - 😄 Pronouns: He/His
 
@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 
-     https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
-     https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png 
+- Node-Js
+- JavaScript
+- Solidity (Etheream)
+- Ligo (Tezos)     
