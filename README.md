@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **Ligo(Smart Contract Language)**.
 
-- 💬 Ask me about **Smart Contract, Blockchain**.
+- 👯 I’m looking to collaborate on **Blockchain Projects**.
+
+- 💬 Ask me about **Smart Contract**.
 
 - ⚡ Fun fact **I spend almost 12 hours listening to songs everyday.**
 
