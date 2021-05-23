@@ -10,13 +10,17 @@
 
 - 💬 Ask me about **Smart Contract, Blockchain**.
 
-- 📫 How to reach me **harshvardhanbahree@gmail.com**.
-
 - ⚡ Fun fact **I spend almost 12 hours listening to songs everyday.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshvardhan129a8192" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/aquaticus/60%20X%2060/linkedin.png" alt="LinkedIn-Harsh Vardhan Bahree" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshvardhan129a8192" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/aquaticus/60%20X%2060/linkedin.png" alt="LinkedIn-Harsh Vardhan Bahree" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/hbahree/" rel="nofollow">
+  <img align="center" alt="Harsh's Facebook" src="https://www.vectorico.com/wp-content/uploads/2018/02/Facebook-Logo-300x300.png" height="40" width="40"/>
+</a>
+<a href="mailto:harshvardhanbahree@gmail.com">
+ <img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png" alt="Harsh's mail" height="40" width="50" />
+</a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
