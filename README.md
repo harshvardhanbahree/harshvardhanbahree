@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhanbahree&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhanbahree" /> </p>
 </a>
 
-- 🌱 I’m currently working in **BlockChain**.
+- 🌱 I’m currently working in **BlockChain Technology**.
 
 - 🌱 I’m currently learning **Ligo(Smart Contract Language)**.
 
