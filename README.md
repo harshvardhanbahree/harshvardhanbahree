@@ -31,3 +31,8 @@
 <p>&nbsp;<img src= "https://github-readme-stats.vercel.app/api?username=harshvardhanbahree&show_icons=true&theme=chartreuse-dark&layout=compact" />
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhanbahree&show_icons=true&theme=chartreuse-dark&layout=compact" /></p>
+
+<p>&nbsp;</p>
+<div align="center">
+<h3>Show some <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> by starring some of the repositories!</h3>
+</div>
