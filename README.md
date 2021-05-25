@@ -1,5 +1,6 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+
+<img width="70%" height = "280px" src="https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true"/>
 </div>
 <p>&nbsp;</p>
   
