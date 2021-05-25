@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="70%" height = "280px" src="https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true"/>
+<img width="50%" height = "280px" src="https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true"/>
 </div>
 <p>&nbsp;</p>
   
