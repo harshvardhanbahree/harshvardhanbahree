@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**.
 
-- 💬 Ask me about **Smart Contract**.
+- 💬 Ask me about **Smart Contracts**.
 
 - ⚡ Fun fact **I spend almost 12 hours listening to songs everyday.**
 
